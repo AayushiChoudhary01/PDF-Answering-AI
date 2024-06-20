@@ -13,6 +13,9 @@ workflow:-
 
 ![image](https://github.com/AayushiChoudhary01/PDF-Answering-AI/assets/152921756/603dd705-529b-45cc-bae1-5570e56a146c)
 
-### PDF USED :- 
+### PDF Used :- 
 https://pressbooks.oer.hawaii.edu/humannutrition2/
+
+### Environment Setup :- 
+this code can be directly run in google colab.
 
