@@ -2,7 +2,7 @@
 
 The goal of this project is to develop a model that answers questions asked from a pdf and that can be done by  Retrieval-Augmented Generation (RAG) pipeline that operates on a local GPU. The pipeline is designed to open a PDF document, process its content, and use a Large Language Model (LLM) to answer questions based on the content of the PDF. 
 
-##What is RAG?
+## What is RAG?
 
 RAG stands for Retrieval-Augmented Generation. It was introduced in the paper "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks". The process can be broken down into three main steps:
 Retrieval: Seeking relevant information from a source given a query. For example, retrieving relevant passages of text from a PDF document based on a question.
